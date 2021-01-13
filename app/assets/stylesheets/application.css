@@ -14,3 +14,38 @@
  *= require_self
  */
 
+.navbar {
+	padding: 10px;
+	border-style: solid;
+	border-color: #e7e7e7;
+	border-width: thin
+}
+
+.container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 750px;
+}
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.428571429;
+	color: #333333;
+	background-color: #fff;
+}
+
+a {
+	color: #337ab7;
+	text-decoration: none;
+}
+
+p {
+	font-size: 120%;
+	margin-top: 0;
+	margin-bottom: 1rem;
+	font-family: Roboto;
+	font-weight: 300;
+}
